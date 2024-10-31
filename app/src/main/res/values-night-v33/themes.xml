@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.SplashDemo.Splash" parent="Theme.SplashScreen">
+        <item name="android:windowSplashScreenBackground">#0A15E9</item>
+        <item name="android:windowSplashScreenAnimationDuration">1000</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">#282424</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/ic_android</item>
+        <!-- caso en el que se desee aplicar solo el icono de la app apartir de android 13 -->
+        <!--<item name="android:windowSplashScreenBehavior">icon_preferred</item>-->
+    </style>
+</resources>

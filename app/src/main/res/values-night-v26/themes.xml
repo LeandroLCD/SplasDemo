@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.SplashDemo.Splash" parent="Theme.SplashScreen">
+        <!--Aca se configura un content xml de la forma antigua apartir del api v26 siempre q uses uno diferente al modo claro -->
+        <!--  <item name="android:windowSplashscreenContent">@drawable/splashContentV26</item> -->
+    </style>
+</resources>

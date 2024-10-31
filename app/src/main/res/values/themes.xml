@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- aca se debe configurar el splash de la forma antigua para android 11 o inferior -->
+    <style name="Theme.SplashDemo.Splash" parent="Theme.SplashScreen">
+    </style>
+</resources>
